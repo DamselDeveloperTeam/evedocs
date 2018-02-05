@@ -2,6 +2,10 @@
 
 A team project for the iOS Developer course by [Opiframe](http://opiframe.com). The code is in Swift 4. Xcode version is 9.2.
 
+## Requirements
+
+This application requires at least 2GB of RAM to work properly on a hardware device.
+
 ## Features
 
 This application has the following features:
