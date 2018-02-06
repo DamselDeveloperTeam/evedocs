@@ -32,6 +32,7 @@ These images are screenshots taken while running an iPhone SE simulator.
 * [Finished search, presenting the only available system candidate](docs/images/searchsystem02.png)
 * [Detailed system information](docs/images/systemdetails.png)
 * [Zoomed map view](docs/images/zoomedview.png)
+* [Map zoomed out as far as it goes](docs/images/zoomedout.png)
 * [Plotted route between two systems (yellow line)](docs/images/routeplotter.png)
 
 ## Known bugs
